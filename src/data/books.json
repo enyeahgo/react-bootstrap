@@ -1,0 +1,44 @@
+[
+{
+	"id":0,
+	"title":"The Notebook",
+	"content":"This is the story about the lost notebook.",
+	"author":"Nicolas Sparks",
+	"status":"borrowed"
+},
+{
+	"id":1,
+	"title":"Noli Me Tangere",
+	"content":"This is about the Filipino struggle for freedom.",
+	"author":"Jose Rizal",
+	"available":true
+},
+{
+	"id":2,
+	"title":"Lord of the Rings",
+	"content":"An epic book.",
+	"author":"J.K. Rowlings",
+	"available":false
+},
+{
+	"id":3,
+	"title":"Dictionary",
+	"content":"English words and its meanings",
+	"author":"Websters",
+	"available":true
+},
+{
+	"id":4,
+	"title":"The Notebook",
+	"content":"This is the story about the lost notebook.",
+	"author":"Nicolas Sparks",
+	"available":true
+},
+{
+	"id":5,
+	"title":"Noli Me Tangere",
+	"content":"This is about the Filipino struggle for freedom.",
+	"author":"Jose Rizal",
+	"available":true
+}
+]
