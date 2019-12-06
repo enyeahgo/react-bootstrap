@@ -5,7 +5,7 @@ class Library extends Component{
 	render(){
 		return (
 			<div className="container">
-				<h1>Library</h1>
+				<h1>Inigo Orosco Library</h1>
 				<Rack />
 			</div>
 		)
