@@ -1,44 +1,44 @@
 [
 {
 	"id":0,
-	"title":"The Notebook",
-	"content":"This is the story about the lost notebook.",
-	"author":"Nicolas Sparks",
+	"title":"In Search of Lost Time",
+	"content":"Swann's Way, the first part of A la recherche de temps perdu, Marcel Proust's seven-part cycle, was published in 1913. In it, Proust introduces the themes that run through the entire work.",
+	"author":"Marcel Proust",
 	"status":"borrowed"
 },
 {
 	"id":1,
-	"title":"Noli Me Tangere",
-	"content":"This is about the Filipino struggle for freedom.",
-	"author":"Jose Rizal",
+	"title":"Ulysses",
+	"content":"Ulysses chronicles the passage of Leopold Bloom through Dublin during an ordinary day, June 16, 1904. The title parallels and alludes to Odysseus (Latinised into Ulysses), the hero of Homer's Odyss...",
+	"author":"James Joyce",
 	"available":true
 },
 {
 	"id":2,
-	"title":"Lord of the Rings",
-	"content":"An epic book.",
-	"author":"J.K. Rowlings",
+	"title":"Don Quixote",
+	"content":"Alonso Quixano, a retired country gentleman in his fifties, lives in an unnamed section of La Mancha with his niece and a housekeeper. He has become obsessed with books of chivalry, and believes th...",
+	"author":"Miguel de Cervantes",
 	"available":false
 },
 {
 	"id":3,
-	"title":"Dictionary",
-	"content":"English words and its meanings",
-	"author":"Websters",
+	"title":"The Great Gatsby",
+	"content":"The novel chronicles an era that Fitzgerald himself dubbed the Jazz Age. Following the shock and chaos of World War I, American society enjoyed unprecedented levels of prosperity during the roar...",
+	"author":"F. Scott Fitzgerald",
 	"available":true
 },
 {
 	"id":4,
-	"title":"The Notebook",
-	"content":"This is the story about the lost notebook.",
-	"author":"Nicolas Sparks",
+	"title":"Moby Dick",
+	"content":"First published in 1851, Melville's masterpiece is, in Elizabeth Hardwick's words, the greatest novel in American literature. The saga of Captain Ahab and his monomaniacal pursuit of the white wh...",
+	"author":"Herman Melville",
 	"available":true
 },
 {
 	"id":5,
 	"title":"Noli Me Tangere",
-	"content":"This is about the Filipino struggle for freedom.",
+	"content":"Noli Me Tángere is an 1887 novel by José Rizal, one of the national heroes of the Philippines during the colonization of the country by Spain, to describe perceived inequities of the Spanish Catholic priests and the ruling government.",
 	"author":"Jose Rizal",
-	"available":true
+	"available":false
 }
 ]
